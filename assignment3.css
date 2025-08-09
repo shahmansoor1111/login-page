@@ -100,7 +100,7 @@
   }
   
   .login-btn:hover {
-    background: linear-gradient(to right, #a048ec, #6e3de0);
+    background: linear-gradient(to right, #79648b, #6e3de0);
     color: #fff;
     letter-spacing: 2px;
     transition: 0.6s ease-in-out;
